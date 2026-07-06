@@ -8,16 +8,16 @@ Built to demonstrate data analytics skills relevant to Saudi public and private 
 
 📊 Dashboard Preview
 
-Page 1 — Economic Diversification
-Economic Diversification.png
+Page 1 — Economic Diversification  
+Economic Diversification.png  
 ُؤ
 
-Page 2 — Social Development
-Social Development.png
+Page 2 — Social Development  
+Social Development.png  
 
 
-Page 3 — Quality of Life
-Quality of Life.png
+Page 3 — Quality of Life  
+Quality of Life.png  
 
 
 
