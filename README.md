@@ -10,7 +10,7 @@ Built to demonstrate data analytics skills relevant to Saudi public and private 
 
 Page 1 — Economic Diversification  
 Economic Diversification.png  
-ُؤ
+
 
 Page 2 — Social Development  
 Social Development.png  
