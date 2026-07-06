@@ -14,20 +14,20 @@ PagePillarIndicators1Economic DiversificationNon-Oil GDP Share, Private Sector G
 🔑 Key Findings (as of 2025)
 
 
-🟢 Female Labor Force Participation reached 35% — surpassing the 2030 target of 30% ahead of schedule
-🟡 Non-Oil GDP Share at 55% — on track toward the 65% target
-🔴 Home Ownership at 64% — 6 points away from the 70% target
-🚀 Tourism hit 123M visits — closing in on the 150M target after record growth since 2021
+🟢 Female Labor Force Participation reached 35% — surpassing the 2030 target of 30% ahead of schedule  
+🟡 Non-Oil GDP Share at 55% — on track toward the 65% target  
+🔴 Home Ownership at 64% — 6 points away from the 70% target  
+🚀 Tourism hit 123M visits — closing in on the 150M target after record growth since 2021  
 
 
 
 🛠️ Tools & Skills
 
 
-*Power BI Desktop — Data modeling, DAX measures, KPI visuals, slicers 
-*DAX — Custom measures: Actual Value, Target, Progress to Target % 
-*Data Modeling — Star schema: Fact table + Indicator dimension 
-*Data Sourcing — GASTAT open data, Vision 2030 Annual Report 2025
+*Power BI Desktop — Data modeling, DAX measures, KPI visuals, slicers   
+*DAX — Custom measures: Actual Value, Target, Progress to Target %   
+*Data Modeling — Star schema: Fact table + Indicator dimension   
+*Data Sourcing — GASTAT open data, Vision 2030 Annual Report 2025  
 
 
 📌 Data Sources
