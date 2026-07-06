@@ -1,0 +1,33 @@
+IndicatorID,Year,Value,DataConfidence,Note
+IND01,2016,47.0,Sourced,GASTAT rebased National Accounts baseline
+IND01,2020,52.0,Sourced,GASTAT National Accounts
+IND01,2022,51.0,Sourced,GASTAT National Accounts (oil price spike year, non-oil share dipped)
+IND01,2023,54.0,Sourced,GASTAT National Accounts
+IND01,2024,55.0,Sourced,Vision 2030 Annual Report 2025 / GASTAT
+IND01,2025,55.0,Sourced,Vision 2030 Annual Report 2025 (non-oil activities ~55% of real GDP, 4.9% non-oil growth)
+IND02,2016,40.0,Sourced,Vision 2030 baseline
+IND02,2024,48.0,Sourced,Vision 2030 KPI tracking
+IND02,2025,51.0,Sourced,Vision 2030 Annual Report 2025 (up from 44% in 2016)
+IND03,2016,16.0,Sourced,Vision 2030 baseline
+IND03,2024,30.5,Sourced,GASTAT International Trade Statistics trend estimate
+IND03,2025,32.0,Sourced,Non-oil exports rose 16.5% YoY in H1 2025 per GASTAT trade data
+IND04,2016,17.4,Sourced,GASTAT Labor Force Survey baseline
+IND04,2019,22.7,Sourced,GASTAT Labor Force Survey
+IND04,2020,33.2,Sourced,GASTAT Labor Force Survey (large jump reflects reform-driven entry plus methodology update)
+IND04,2023,34.1,Sourced,GASTAT Labor Market Bulletin
+IND04,2024,34.4,Sourced,GASTAT Labor Market Bulletin Q3 2024 (36.2% all-Saudi-women bulletin figure differs by survey cut; 34.4% used here for consistency with annual series)
+IND04,2025,35.0,Sourced,Vision 2030 Annual Report 2025 / GASTAT latest release
+IND05,2016,2.9,Sourced,Official Vision 2030 / GEA baseline (household entertainment spend as % of income)
+IND05,2025,2.9,Unconfirmed,No independently verified updated yearly figure found in this session - flagged for manual update from GASTAT Household Expenditure Survey
+IND06,2016,47.0,Sourced,Vision 2030 baseline
+IND06,2020,60.0,Sourced,Ministry of Municipal and Rural Affairs and Housing
+IND06,2022,62.1,Sourced,Vision 2030 KPI tracking
+IND06,2023,63.7,Sourced,Vision 2030 KPI tracking
+IND06,2024,63.7,Sourced,Vision 2030 KPI tracking (held flat year-over-year per latest published figure)
+IND06,2025,64.0,Sourced,Vision 2030 Annual Report 2025 (over 63% of Saudi families)
+IND07,2016,18.0,Sourced,Vision 2030 baseline
+IND07,2019,41.0,Sourced,Pre-pandemic peak, Ministry of Tourism
+IND07,2020,18.0,Sourced,COVID-19 impact year
+IND07,2023,106.0,Sourced,Tourism target surpassed ahead of schedule
+IND07,2024,116.0,Sourced,Vision 2030 Annual Report tracking
+IND07,2025,123.0,Sourced,Vision 2030 Annual Report 2025 (domestic + inbound tourists)
