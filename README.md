@@ -8,7 +8,19 @@ Built to demonstrate data analytics skills relevant to Saudi public and private 
 
 📊 Dashboard Preview
 
-PagePillarIndicators1Economic DiversificationNon-Oil GDP Share, Private Sector GDP, Non-Oil Exports2Social DevelopmentFemale Labor Force Participation, Entertainment Spending3Quality of LifeHome Ownership Rate, Annual Tourist Visits
+📊 Dashboard Preview
+
+Page 1 — Economic Diversification
+Economic Diversification.png
+ُؤ
+
+Page 2 — Social Development
+Social Development.png
+
+
+Page 3 — Quality of Life
+Quality of Life.png
+
 
 
 🔑 Key Findings (as of 2025)
