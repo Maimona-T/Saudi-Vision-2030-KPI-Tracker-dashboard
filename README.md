@@ -24,30 +24,30 @@ PagePillarIndicators1Economic DiversificationNon-Oil GDP Share, Private Sector G
 🛠️ Tools & Skills
 
 
-Power BI Desktop — Data modeling, DAX measures, KPI visuals, slicers
-DAX — Custom measures: Actual Value, Target, Progress to Target %
-Data Modeling — Star schema: Fact table + Indicator dimension
-Data Sourcing — GASTAT open data, Vision 2030 Annual Report 2025
+*Power BI Desktop — Data modeling, DAX measures, KPI visuals, slicers 
+*DAX — Custom measures: Actual Value, Target, Progress to Target % 
+*Data Modeling — Star schema: Fact table + Indicator dimension 
+*Data Sourcing — GASTAT open data, Vision 2030 Annual Report 2025
 
 
 📌 Data Sources
 
 All national-level figures are sourced from official Saudi government publications:
 
-Vision 2030 Annual Report 2025: https://www.vision2030.gov.sa/en/annual-reports
-Vision 2030 KPI Framework: https://www.vision2030.gov.sa/en/explore/key-performance-indicator
-GASTAT — General Authority for Statistics: https://www.stats.gov.sa/en
-GASTAT Labor Market Bulletins: https://www.stats.gov.sa/en/news
-Ministry of Tourism: https://mt.gov.sa/en
+*Vision 2030 Annual Report 2025: https://www.vision2030.gov.sa/en/annual-reports  
+*Vision 2030 KPI Framework: https://www.vision2030.gov.sa/en/explore/key-performance-indicator  
+*GASTAT — General Authority for Statistics: https://www.stats.gov.sa/en  
+*GASTAT Labor Market Bulletins: https://www.stats.gov.sa/en/news  
+*Ministry of Tourism: https://mt.gov.sa/en  
 
 
 🚀 How to Use
 
 
-Clone or download this repository
-Open dashboard/2030vision_kpi.pbix in Power BI Desktop
-Data is embedded — no additional setup required
-Use the Year slicer (synced across all 3 pages) to explore trends over time
+*Clone or download this repository  
+*Open saudi vision 2030 KPI tracker dashboard.pbix in Power BI Desktop  
+*Data is embedded — no additional setup required  
+*Use the Year slicer (synced across all 3 pages) to explore trends over time  
 
 
 
