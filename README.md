@@ -8,8 +8,6 @@ Built to demonstrate data analytics skills relevant to Saudi public and private 
 
 📊 Dashboard Preview
 
-📊 Dashboard Preview
-
 Page 1 — Economic Diversification
 Economic Diversification.png
 ُؤ
